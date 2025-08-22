@@ -224,8 +224,10 @@ plt.show()
 # Output Waveform
 ## Ideal Sampling
 <img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/eb8a7551-c8bf-4b18-b900-3685d46994fa" />
+
 ## Natural Sampling 
 <img width="1389" height="990" alt="image" src="https://github.com/user-attachments/assets/c7f8f194-ed6e-4a09-bc3e-8b144f5e2c90" />
+
 ## Flat-top Sampling 
 <img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/38028977-d1fe-42d1-8e26-a1c53f5bed33" />
 
